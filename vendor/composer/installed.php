@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => 'b12291ade1b169705417078de878205fb6a72213',
+    'reference' => 'e73cd7ad932ef699cd67046ee0e613211e737025',
     'name' => 'marianaxvr/ecommerce',
   ),
   'versions' => 
   array (
     'marianaxvr/ecommerce' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => 'b12291ade1b169705417078de878205fb6a72213',
+      'reference' => 'e73cd7ad932ef699cd67046ee0e613211e737025',
     ),
     'nikic/fast-route' => 
     array (

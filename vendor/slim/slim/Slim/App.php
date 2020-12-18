@@ -59,7 +59,8 @@ class App extends RouteCollectorProxy implements RequestHandlerInterface
      * @param MiddlewareDispatcherInterface|null    $middlewareDispatcher
      */
     public function __construct(\Slim\Views\Twig $view) {
-        $this->view = $view;}
+        $this->view = $view;
+    }
         ResponseFactoryInterface $responseFactory,
         ?ContainerInterface $container = null,
         ?CallableResolverInterface $callableResolver = null,

@@ -1,0 +1,19 @@
+{
+    "name": "marianaxvr/ecommerce",
+    "authors": [
+        {
+            "name": "Mariana",
+            "email": "marianadx259@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer":"^6.2",
+    	"slim/slim":">=4.7.0",
+    	"rain/raintpl":">=3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
+        }
+    }
+}
